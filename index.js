@@ -1,7 +1,6 @@
 const h = document.querySelector("#hour-hand");
 const m = document.querySelector("#minute-hand");
 const s = document.querySelector("#seconds-hand");
-console.log(h, m, s);
 
 
 function updateClock() {
